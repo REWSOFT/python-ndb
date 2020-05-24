@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+### [1.2.2](https://www.github.com/googleapis/python-ndb/compare/v1.2.1...v1.2.2) (2020-05-24)
+
+
+### Bug Fixes
+
+* Add support for 'name' Key instances to to_legacy_urlsafe ([#420](https://www.github.com/googleapis/python-ndb/issues/420)) ([59fc5af](https://www.github.com/googleapis/python-ndb/commit/59fc5afc36d01b72ad4b53befa593803b55df8b3))
+* refactor transactions to use their own event loops ([#443](https://www.github.com/googleapis/python-ndb/issues/443)) ([7590be8](https://www.github.com/googleapis/python-ndb/commit/7590be8233fe58f9c45076eb38c1995363f02362)), closes [#426](https://www.github.com/googleapis/python-ndb/issues/426) [#426](https://www.github.com/googleapis/python-ndb/issues/426)
+
 ### [1.2.1](https://www.github.com/googleapis/python-ndb/compare/v1.2.0...v1.2.1) (2020-05-15)
 
 
